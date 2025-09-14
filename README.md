@@ -27,4 +27,4 @@ The dataset was created with the help of ChatGPT and used for building this repo
 ->Improves inventory and supply chain planning
 
 7.🖼️ Screenshots / Demo
-->Dashboard Preview:- 
+->Dashboard Preview:- (https://github.com/gowni83/Flipcart-Dasgboard/blob/main/Flip%20Screenshot.png)
